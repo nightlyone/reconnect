@@ -4,9 +4,24 @@ Handling flaky connections is tiresome.
 
 So this package provides some useful tools for the standard errror handling cases.
 
-build
---------
+[![Build Status][1]][2]
+
+[1]: https://secure.travis-ci.org/nightlyone/reconnect.png
+[2]: http://www.travis-ci.org/nightlyone/reconnect
+
+
+
+install
+-------
+Install [Go 1][3], either [from source][4] or [with a prepackaged binary][5].
+
+Then run
+
 	go get github.com/nightlyone/reconnect
+
+[3]: http://golang.org
+[4]: http://golang.org/doc/install/source
+[5]: http://golang.org/doc/install
 
 LICENSE
 -------
@@ -16,9 +31,8 @@ documentation
 -------------
 [package documentation at go.pkgdoc.org](http://go.pkgdoc.org/github.com/nightlyone/reconnect)
 
-compile and install
+install
 -------------------
-Get the library
 	go get github.com/nightlyone/reconnect
 
 
