@@ -7,7 +7,7 @@ So this package provides some useful tools for the standard errror handling case
 [![Build Status][1]][2]
 
 [1]: https://secure.travis-ci.org/nightlyone/reconnect.png
-[2]: http://www.travis-ci.org/nightlyone/reconnect
+[2]: http://travis-ci.org/nightlyone/reconnect
 
 
 
