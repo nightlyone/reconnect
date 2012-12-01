@@ -54,5 +54,3 @@ func NTimes(r Reconnectable, interval time.Duration, max uint) (err error) {
 	}
 	return err
 }
-
-
