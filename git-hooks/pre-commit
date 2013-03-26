@@ -6,7 +6,6 @@
 # pre-commit_[whatevernameyouwant] make that file executable and this script
 # finds it and runs it.
 #
-echo "precommit\n";
 GIT_DIR=$(git rev-parse --git-dir 2>/dev/null)
 if [ -z "$GIT_DIR" ]; then
 	echo >&2 "fatal: hooks/functions: GIT_DIR not set"
