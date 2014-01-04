@@ -48,3 +48,7 @@ enable commit hooks via
 
         cd .git ; rm -rf hooks; ln -s ../git-hooks hooks ; cd ..
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/nightlyone/reconnect/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
